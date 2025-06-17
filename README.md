@@ -39,7 +39,3 @@ Basado en el análisis de los datos, se extrajeron las siguientes conclusiones:
 *   La **Tienda 4** tuvo el costo de envío promedio más bajo, mientras que la Tienda 1 tuvo el más alto.
 
 Considerando los ingresos totales como el principal indicador de desempeño para vender, la **Tienda 4** es la que mostró el menor desempeño en este conjunto de datos.
-
-## Uso del Notebook
-
-Este notebook puede ser ejecutado secuencialmente para reproducir el análisis y las visualizaciones. Asegúrate de tener las bibliotecas `pandas` y `matplotlib` instaladas.
